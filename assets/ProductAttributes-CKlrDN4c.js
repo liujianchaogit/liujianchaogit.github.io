@@ -1,0 +1,1 @@
+import{_ as r}from"./ProductAttributes.vue_vue_type_script_setup_true_lang-CQFejWPC.js";import"./index-DiGvuAxb.js";import"./form-designer-drfGvdgz.js";import"./form-create-D7wT855o.js";import"./property-CPQMPIru.js";export{r as default};

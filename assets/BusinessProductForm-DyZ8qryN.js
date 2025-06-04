@@ -1,0 +1,1 @@
+import{_ as o}from"./BusinessProductForm.vue_vue_type_script_setup_true_lang-DxqNVEr9.js";import"./index-DiGvuAxb.js";import"./form-designer-drfGvdgz.js";import"./form-create-D7wT855o.js";import"./DictTag.vue_vue_type_script_lang-CByQaegm.js";import"./color-BN7ZL7BD.js";import"./index-BecHlYrv.js";export{o as default};

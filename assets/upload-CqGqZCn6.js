@@ -1,0 +1,1 @@
+import{aP as r}from"./index-DiGvuAxb.js";import{u as o,U as t}from"./useUpload-Bn-ruquy.js";const s={Authorization:"Bearer "+r()},e="http://localhost:48080/admin-api/mp/material/upload-permanent",i=a=>o(t.Image,2)(a),m=a=>o(t.Voice,2)(a),p=a=>o(t.Video,10)(a);export{s as H,e as U,m as a,i as b,p as c};

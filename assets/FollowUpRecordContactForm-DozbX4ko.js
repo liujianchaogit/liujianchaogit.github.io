@@ -1,0 +1,1 @@
+import{_ as r}from"./FollowUpRecordContactForm.vue_vue_type_script_setup_true_lang-DnGaMf8w.js";import"./index-DiGvuAxb.js";import"./form-designer-drfGvdgz.js";import"./form-create-D7wT855o.js";import"./DictTag.vue_vue_type_script_lang-CByQaegm.js";import"./color-BN7ZL7BD.js";export{r as default};

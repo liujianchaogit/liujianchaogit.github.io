@@ -1,0 +1,1 @@
+import{V as t}from"./index-DiGvuAxb.js";const e=async a=>await t.get({url:"/pay/wallet/get",params:a}),s=async a=>await t.get({url:"/pay/wallet/page",params:a}),l=async a=>await t.put({url:"/pay/wallet/update-balance",data:a});export{s as a,e as g,l as u};

@@ -1,0 +1,1 @@
+import{k as a,l as s,m as r,F as e}from"./form-create-D7wT855o.js";import{c as o}from"./index-DiGvuAxb.js";const i={class:"card-title"},p=o(a({__name:"CardTitle",props:{title:{type:String,required:!0}},setup:t=>(d,l)=>(r(),s("span",i,e(t.title),1))}),[["__scopeId","data-v-307d15a9"]]);export{p as C};
