@@ -1,1 +1,0 @@
-import{p as e,c as s}from"./index-DiGvuAxb.js";import{k as t,C as r}from"./form-create-D7wT855o.js";const a=s(t({name:"DocAlert",__name:"index",props:{title:e.string,url:e.string},setup:o=>(p,i)=>r("",!0)}),[["__scopeId","data-v-35410eed"]]);export{a as _};

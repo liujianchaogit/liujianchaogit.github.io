@@ -1,1 +1,0 @@
-import{_ as r}from"./DescriptionForm.vue_vue_type_script_setup_true_lang-DTxeVvLD.js";import"./index-DiGvuAxb.js";import"./form-designer-drfGvdgz.js";import"./form-create-D7wT855o.js";import"./formRules-D4RhDYOS.js";export{r as default};
