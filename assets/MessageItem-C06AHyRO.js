@@ -1,0 +1,1 @@
+import{U as e}from"./constants-IYPHa1Ih.js";import{x as m,y as p,z as t,A as r,H as o,u as a}from"./form-create-7GAbgMwl.js";const d=m({name:"MessageItem",__name:"MessageItem",props:{message:{}},setup:g=>(s,l)=>(p(),t("div",{class:o([s.message.senderType===a(e).MEMBER?"ml-10px":s.message.senderType===a(e).ADMIN?"mr-10px":""])},[r(s.$slots,"default")],2))});export{d as default};

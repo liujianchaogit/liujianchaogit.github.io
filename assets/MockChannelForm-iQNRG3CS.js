@@ -1,0 +1,1 @@
+import{_ as o}from"./MockChannelForm.vue_vue_type_script_setup_true_lang-BciE26gF.js";import"./index-C1TKk8vI.js";import"./form-designer-BpYekVAY.js";import"./form-create-7GAbgMwl.js";import"./Dialog.vue_vue_type_style_index_0_lang-CB5cl-Ts.js";import"./constants-IYPHa1Ih.js";import"./index-Dw8lk7C1.js";export{o as default};

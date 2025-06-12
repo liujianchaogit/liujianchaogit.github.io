@@ -1,0 +1,1 @@
+import{c as s}from"./index-C1TKk8vI.js";import{ag as o}from"./form-designer-BpYekVAY.js";import{y as t,z as r,O as e}from"./form-create-7GAbgMwl.js";const m={class:"message-loading"},n=s({},[["render",function(d,c){const a=o;return t(),r("div",m,[e(a,{animated:""})])}],["__scopeId","data-v-1426bd51"]]);export{n as default};

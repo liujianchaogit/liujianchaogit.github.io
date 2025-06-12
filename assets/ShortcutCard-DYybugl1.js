@@ -1,0 +1,1 @@
+import{_ as r}from"./ShortcutCard.vue_vue_type_script_setup_true_lang-BEyOo0Ct.js";import"./index-C1TKk8vI.js";import"./form-designer-BpYekVAY.js";import"./form-create-7GAbgMwl.js";import"./CardTitle-DO8rewsa.js";export{r as default};

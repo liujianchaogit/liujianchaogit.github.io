@@ -1,0 +1,1 @@
+import{_ as t}from"./DataDefinition.vue_vue_type_script_setup_true_lang-BTvsCRFS.js";import"./config-6hyG0uwh.js";import"./index-C1TKk8vI.js";import"./form-designer-BpYekVAY.js";import"./form-create-7GAbgMwl.js";export{t as default};

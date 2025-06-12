@@ -1,0 +1,1 @@
+import{_ as o}from"./ProductForm.vue_vue_type_script_setup_true_lang-B7AjGvH2.js";import"./index-C1TKk8vI.js";import"./form-designer-BpYekVAY.js";import"./form-create-7GAbgMwl.js";import"./Dialog.vue_vue_type_style_index_0_lang-CB5cl-Ts.js";import"./index-C69xrZfi.js";import"./index-CJQswbMz.js";import"./tree-COGD3qag.js";import"./index-CZiMqbPE.js";export{o as default};

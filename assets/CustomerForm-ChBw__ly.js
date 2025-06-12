@@ -1,0 +1,1 @@
+import{_ as o}from"./CustomerForm.vue_vue_type_script_setup_true_lang-Cl-FWwle.js";import"./index-C1TKk8vI.js";import"./form-designer-BpYekVAY.js";import"./form-create-7GAbgMwl.js";import"./Dialog.vue_vue_type_style_index_0_lang-CB5cl-Ts.js";import"./index-Bdw660V1.js";import"./index-R1Ohxk4X.js";import"./tree-COGD3qag.js";import"./index-CZiMqbPE.js";export{o as default};
